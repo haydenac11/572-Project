@@ -2,7 +2,7 @@
 ## Hayden Church & Khushi Bhatt
 
 # Scraping & Data Collection
-Scraping code can be found in the Working Notebooks directory in the plotting.ipynb file.
+Scraping code can be found in the Working Notebooks directory in the plotting.ipynb file. The data collection from yfinance can be found in the datacollect.ipynb file.
 
 # Data
 The actual CSV of all data can be found in the Data directory in the SP500.csv file.
