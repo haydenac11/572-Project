@@ -16,3 +16,7 @@ copy_plotting.ipynb contains the Katz centrality code.
 
 plotting.ipynb contains primitive versions of network construction, degree distributions and null models code.
 
+hayden_plotting.ipynb and copy_plotting should be treated as the final versions of the code, as this is were all of the data, figures, statistics for the final iteration have come from. 
+
+hayden_plotting.ipynb in particular contains a huge amount of irrelevant graphs that were made for deeper understanding the network that do not necessarily align with anything in the paper.
+
