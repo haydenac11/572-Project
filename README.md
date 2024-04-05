@@ -18,5 +18,5 @@ plotting.ipynb contains primitive versions of network construction, degree distr
 
 hayden_plotting.ipynb and copy_plotting should be treated as the final versions of the code, as this is were all of the data, figures, statistics for the final iteration have come from. 
 
-hayden_plotting.ipynb in particular contains a huge amount of irrelevant graphs that were made for deeper understanding the network that do not necessarily align with anything in the paper.
+hayden_plotting.ipynb in particular contains a huge amount of irrelevant graphs that were made for deeper understanding of the network that do not necessarily align with anything in the paper.
 
